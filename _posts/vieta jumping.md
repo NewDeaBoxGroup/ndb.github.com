@@ -2,7 +2,7 @@
  title: "vieta jumping"
  author: 유승훈(shiromath)
  date: 2018-03-31 16:02
- category: report
+ category: math
  tags: ["math"]
  ---
 
