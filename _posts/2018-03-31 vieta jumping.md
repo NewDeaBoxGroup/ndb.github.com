@@ -1,9 +1,9 @@
- ---
- title: "vieta jumping"
- author: 유승훈(shiromath)
- date: 2018-03-31 16:02
- category: math
- tags: ["math"]
+ ---<br>
+ title: "vieta jumping"<br>
+ author: 유승훈(shiromath)<br>
+ date: 2018-03-31 16:02<br>
+ category: math<br>
+ tags: ["math"]<br>
  ---
 
 vieta jumping은 IMO에서 응오바오쩌우라는 사람이 고안해낸 증명기법입니다.<br>
